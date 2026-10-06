@@ -2,7 +2,8 @@
 
 A small prototype built on **Appian Community Edition** that turns pasted text (emails, articles, meeting notes) into an AI-generated summary. Appian's low-code interface designer handles the UI, and an Appian Connected System and Integration calls the Groq LLM API.
 
-![AI Summarizer screenshot](screenshot.jpg)
+![Uploading image.png…]()
+
 
 ## What it does
 
